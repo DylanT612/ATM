@@ -1,14 +1,3 @@
-/*
-I certify, that this computer program submitted by me is all of my own work.
-Signed: Dylan Theis 5/10/2024
-
-Author: Dylan Theis
-Date: Summer 2024
-Class: CSC322
-Project: ATM Machine
-Description: the Account class for ATM.java
-
- */
 
 import java.util.Date;
 
