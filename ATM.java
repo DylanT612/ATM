@@ -1,15 +1,3 @@
-/*
-I certify, that this computer program submitted by me is all of my own work.
-Signed: Dylan Theis 5/10/2024
-
-Author: Dylan Theis
-Date: Summer 2024
-Class: CSC322
-Project: ATM Machine
-Description: practice writing a class, instantiating objects of that class,
-and using the objects in the Account class
-
- */
 
 
 // ATM class and initialize accounts array
